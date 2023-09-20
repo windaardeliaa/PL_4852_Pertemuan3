@@ -1,0 +1,11 @@
+D:\KULIAH\SEM-3\PEMROGRAMAN LANJUT\Praktikum\4852AplikasiLatihanTiga3\bin\Debug\4852AplikasiLatihanTiga3.exe.config
+D:\KULIAH\SEM-3\PEMROGRAMAN LANJUT\Praktikum\4852AplikasiLatihanTiga3\bin\Debug\4852AplikasiLatihanTiga3.exe
+D:\KULIAH\SEM-3\PEMROGRAMAN LANJUT\Praktikum\4852AplikasiLatihanTiga3\bin\Debug\4852AplikasiLatihanTiga3.pdb
+D:\KULIAH\SEM-3\PEMROGRAMAN LANJUT\Praktikum\4852AplikasiLatihanTiga3\obj\Debug\4852AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+D:\KULIAH\SEM-3\PEMROGRAMAN LANJUT\Praktikum\4852AplikasiLatihanTiga3\obj\Debug\4852AplikasiLatihanTiga3.csproj.SuggestedBindingRedirects.cache
+D:\KULIAH\SEM-3\PEMROGRAMAN LANJUT\Praktikum\4852AplikasiLatihanTiga3\obj\Debug\_4852AplikasiLatihanTiga3.frmLatihanTiga3.resources
+D:\KULIAH\SEM-3\PEMROGRAMAN LANJUT\Praktikum\4852AplikasiLatihanTiga3\obj\Debug\_4852AplikasiLatihanTiga3.Properties.Resources.resources
+D:\KULIAH\SEM-3\PEMROGRAMAN LANJUT\Praktikum\4852AplikasiLatihanTiga3\obj\Debug\4852AplikasiLatihanTiga3.csproj.GenerateResource.cache
+D:\KULIAH\SEM-3\PEMROGRAMAN LANJUT\Praktikum\4852AplikasiLatihanTiga3\obj\Debug\4852AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEM-3\PEMROGRAMAN LANJUT\Praktikum\4852AplikasiLatihanTiga3\obj\Debug\4852AplikasiLatihanTiga3.exe
+D:\KULIAH\SEM-3\PEMROGRAMAN LANJUT\Praktikum\4852AplikasiLatihanTiga3\obj\Debug\4852AplikasiLatihanTiga3.pdb
